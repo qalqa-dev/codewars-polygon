@@ -9,4 +9,4 @@ var numWaterBottles = function (numBottles, numExchange) {
   return count;
 };
 
-console.log(numWaterBottles(9, 3));
+console.log(numWaterBottles(10, 3));
